@@ -43,4 +43,8 @@
 
 
 
+镜像站：
 
+[木子欢儿/sponsors (gitee.com)](https://gitee.com/muzihuaner/sponsors)
+
+[muzihuaner/sponsors (github.com)](https://github.com/muzihuaner/sponsors)
