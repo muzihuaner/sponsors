@@ -48,6 +48,7 @@
 |N*|微信| 10.00 |01/27/2022|无|
 |咻*|微信| 5.00 |01/27/2022|无|
 |*缺|微信| 10.00 |01/27/2022|大靓仔！|
+|坠落星空|微信| 10.00 |07/22/2022|无|
 ## 支出名单
 |日期|消费内容|金额|
 |---|---|---|
@@ -56,8 +57,3 @@
 |2021-05-14|百度网盘会员|8.00|
 
 
-镜像站：
-
-[木子欢儿/sponsors (gitee.com)](https://gitee.com/muzihuaner/sponsors)
-
-[muzihuaner/sponsors (github.com)](https://github.com/muzihuaner/sponsors)
