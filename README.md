@@ -17,7 +17,7 @@
 
 | 支付宝                                                       | 微信支付                                                     | QQ 支付                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129932.png" style="zoom: 25%;" /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129833.png" style="zoom: 25%;" /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222130330.png" style="zoom: 33%;" /> |
+| <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129932.png" width=250px /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129833.png" width=250px /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222130330.png" width=250px /> |
 
 
 
