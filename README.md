@@ -20,6 +20,7 @@
 | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129932.png" width=250px /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222129833.png" width=250px /> | <img src="https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/202207222130330.png" width=250px /> |
 
 
+<a href="https://huangetech.gitee.io/pay/index2.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></a>
 
 ## 赞赏名单
 
